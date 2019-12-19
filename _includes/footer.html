@@ -1,0 +1,9 @@
+
+<nav class="navbar navbar-expand-lg sticky-bottom navbar-light" style="background-color:  #cac8c8;">
+  <div class="container">
+        {%- if site.email -%}
+        <p><a href="mailto:{{ site.email }}"><img src="{{ '/assets/mail.svg' | relative_url }}" /><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#email' | relative_url }}"></use></svg>{{ site.email }}</a></p>
+        {%- endif -%}
+        {%- include social.html -%}
+  </div>
+</nav>
