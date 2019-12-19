@@ -23,7 +23,7 @@ email: alban.fichet@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
     PhD. Computer Graphics
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://afichet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  yama-chan
 linkedin_username: alban-fichet-17758324
