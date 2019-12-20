@@ -6,7 +6,7 @@ permalink: /programs/
 
 ART
 ===
-I Joined the long time running developpement of ART, The Advanced Rendering Toolkit, initialy developped by [Robert f. Tobler](http://cgg.mff.cuni.cz/ART/archivers/dedication.html), currently maintained by [Alexander Wilkie](http://cgg.mff.cuni.cz/~wilkie) during my year in Czech Republic. 
+I joined the long time running developpement of ART, *The Advanced Rendering Toolkit*, initialy developped by [Robert f. Tobler](http://cgg.mff.cuni.cz/ART/archivers/dedication.html), currently maintained by [Alexander Wilkie](http://cgg.mff.cuni.cz/~wilkie) during my year in Czech Republic. 
 
 <div class="row align-items-center">
     <div class="col-sm">
@@ -21,7 +21,7 @@ I Joined the long time running developpement of ART, The Advanced Rendering Tool
 </div>
 <br>
 <div class="text-right">
-<a href="http://cgg.mff.cuni.cz/ART"><button class="btn btn-outline-primary">Website...</button></a>
+<a href="http://cgg.mff.cuni.cz/ART"><button class="btn btn-outline-primary">Website</button></a>
 </div>
 <br>
 <br>
