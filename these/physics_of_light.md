@@ -47,12 +47,12 @@ Electromagnetic waves can take various frequencies $$\nu$$, or wavelengths $$\la
 
 Wavelengths and frequencies are linked by equation \eqref{eqn:wl_freq}.
 
-\[
+$$
 \begin{equation}
     \lambda = \frac{v}{\nu} \qquad [\mathrm{m}]
     \label{eqn:wl_freq}
 \end{equation}
-\] 
+$$
     
 Where:
 - $$\lambda$$ is the wavelength in meters [$$\mathrm{m}$$].}
