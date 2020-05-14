@@ -242,13 +242,13 @@ $$
 <figure id="fig:radiance_irradiance">
     <div class="w3-cell-row">
         <figure class="w3-cell">
-            <img src="/figures/light_physics/asy/radiance.svg" />
+            <img src="/figures/light_physics/images/asy/radiance.svg" />
             <figcaption>
                 <strong>(a)</strong> Radiance is the radiant flux \(\Phi_e\) over a patch \(\mathrm{d} A\) projected on in the direction \(\omega_i\) per unit of solid angle \(\mathrm{d} \omega_i\).
             </figcaption>
         </figure>
         <figure class="w3-cell">
-            <img src="/figures/light_physics/asy/irradiance.svg" />
+            <img src="/figures/light_physics/images/asy/irradiance.svg" />
             <figcaption>
                 <strong>(b)</strong> Irradiance is the radiant flux \(\Phi_e\) over a patch \(\mathrm{d} A\). It can be seen as the integral of the radiance from all directions.
             </figcaption>
@@ -366,7 +366,7 @@ To compute the resulting amplitude $$A_3$$ and phase $$\varphi_3$$, we can
 use Fresnel vectors.
 
 <figure id="fig:fresnel_vectors">
-    <img src="/figures/light_physics/asy/output/fresnel_vectors.svg" />
+    <img src="/figures/light_physics/images/asy/fresnel_vectors.svg" />
     <figcaption>
     <strong>Figure 6:</strong> Fresnel's vectors: red and purple vectors represent waves of the same frequency with different amplitudes and phase shifts. The sum of the two gives the amplitude and phase shift of the resulting wave.
     </figcaption>
@@ -396,7 +396,7 @@ From the optical path length $$l$$ (OPL) we get the relative shift of a wave: $$
 Figure [7](#fig:opl) shows two waves $$\mathbf{\Psi}_1, \mathbf{\Psi}_2$$ of same wavelength $$\lambda$$ with phase shifts $$\varphi_1, \varphi_2$$ at position $$\mathbf{P_1}, \mathbf{P_2}$$. They cross at $\mathbf{P_3}$ at distances $$l_1, l_2$$ respectively from $$\mathbf{P_1}, \mathbf{P_2}$$. The resulting wave $$\mathbf{\Psi}_3$$ at $$\mathbf{P_3}$$ will be the result of the interference between $$\mathbf{\Psi}_1$$ and $$\mathbf{\Psi}_2$$. To get the resulting wave $$\mathbf{\Psi}_3$$, we are interested in knowing respective phases $$\varphi'_1, \varphi'_2$$ of $$\mathbf{\Psi}_1, \mathbf{\Psi}_2$$ at $$\mathbf{P_3}$$.
 
 <figure id="fig:opl">
-    <img src="/figures/light_physics/asy/output/opd.svg" />
+    <img src="/figures/light_physics/images/asy/opd.svg" />
     <figcaption>
         <strong>Figure 7:</strong> Optical path length. The optical path length determines the amplitude and phase shift when two monochromatic waves cross point.
     </figcaption>
@@ -490,19 +490,19 @@ Polarisation states
 <figure id="fig:polarisation_states">
     <div class="w3-row-padding">
         <figure class="w3-col m4 l4">
-            <img src="/figures/light_physics/asy/output/polarized_linear.svg" width="80%"  />
+            <img src="/figures/light_physics/images/asy/polarized_linear.svg" width="80%"  />
             <figcaption>
             <strong>(a)</strong> Linear polarisation. The amplitude projection of the field on x is null.
             </figcaption>
         </figure>
         <figure class="w3-col m4 l4">
-            <img src="/figures/light_physics/asy/output/polarized_elliptic.svg" id="subfig:elliptical_polarisation" width="80%" />
+            <img src="/figures/light_physics/images/asy/polarized_elliptic.svg" id="subfig:elliptical_polarisation" width="80%" />
             <figcaption>
             <strong>(b)</strong> Elliptical polarisation. The projection of the field on x and y planes is 90<span class="math inline"><sup>∘</sup></span> out of phase with higher magnitude for the sinusoid on y axis.
             </figcaption>
         </figure>
         <figure class="w3-col m4 l4">
-            <img src="/figures/light_physics/asy/output/polarized_circular.svg" id="subfig:circular_polarisation" width="80%" />
+            <img src="/figures/light_physics/images/asy/polarized_circular.svg" id="subfig:circular_polarisation" width="80%" />
             <figcaption>
             <strong>(c)</strong> Circular polarisation. The projection of the field on x and y planes is 90<span class="math inline"><sup>∘</sup></span> out of phase with equal magnitude.
             </figcaption>
@@ -579,13 +579,13 @@ Figures <a href="#subfig:elliptical_polarisation" data-reference-type="ref" data
 <figure id="fig:stokes_circular">
     <div class="w3-cell-row">
         <figure class="w3-cell">
-            <img src="/figures/light_physics/asy/output/polarized_stokes_circular_left.svg" width="80%" />
+            <img src="/figures/light_physics/images/asy/polarized_stokes_circular_left.svg" width="80%" />
             <figcaption>
                 <strong>(a)</strong> Left circular polarised light.
             </figcaption>
         </figure>
         <figure class="w3-cell">
-            <img src="/figures/light_physics/asy/output/polarized_stokes_circular_right.svg" width="80%" />
+            <img src="/figures/light_physics/images/asy/polarized_stokes_circular_right.svg" width="80%" />
             <figcaption>
                 <strong>(b)</strong> Right circular polarised light.
             </figcaption>
