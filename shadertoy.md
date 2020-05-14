@@ -4,10 +4,17 @@ title: Shadertoy
 permalink: /shadertoy/
 ---
 
-
 Spectral Cornell box
 ====================
-[<img src="../images/shadertoy/WtlSWM.jpg" class="img-thumbnail rounded mx-auto d-block" alt="Cornell box">](https://www.shadertoy.com/view/WtlSWM)
+
+<div class="w3-content" style="max-width:500px">
+  <div class="w3-card">
+    <a href="https://www.shadertoy.com/view/WtlSWM">
+      <img src="/images/shadertoy/WtlSWM.jpg" alt="Cornell box" />
+    </a>
+  </div>
+</div>
+<br>
 
 This Shadertoy renders a Cornell box in spectral using the official specifications
 for spectral reflectance. Those are resampled each 1nm to ease the computations.
@@ -22,15 +29,24 @@ going to be done in this version to keep it as simple as possible.
 
 Diffraction by a prism
 ======================
-<div class="row">
-    <div class="col-sm">
-        <a href="https://www.shadertoy.com/view/wlSXz3"><img src="../images/shadertoy/wlSXz3.jpg" class="img-thumbnail rounded mx-auto d-block" alt="Prism 1"></a>
+<div class="w3-row-padding">
+  <div class="w3-col m6 l6">
+    <div class="w3-card">
+      <a href="https://www.shadertoy.com/view/wlSXz3">
+        <img src="../images/shadertoy/wlSXz3.jpg" class="w3-image" alt="Prism 1">
+      </a>
     </div>
-    <div class="col-sm">
-        <a href="https://www.shadertoy.com/view/wt2SRy"><img src="../images/shadertoy/wt2SRy.jpg" class="img-thumbnail rounded mx-auto d-block" alt="Prism 2"></a>
+  </div>
+  <div class="w3-col m6 l6">
+    <div class="w3-card">
+      <a href="https://www.shadertoy.com/view/wt2SRy">
+        <img src="/images/shadertoy/wt2SRy.jpg" class="w3-image" alt="Prism 2">
+      </a>
     </div>
+  </div>
 </div>
 <br>
+
 Shows the dispersion by a prism made of Dense flint glass SF10.
 You can tweak the index of refraction and the light dispersion in cauchy_ior
 function from Common tab (from line 144).
@@ -42,7 +58,15 @@ in Common tab.
 
 Colour matching functions
 =========================
-[<img src="../images/shadertoy/WtsXW4.jpg" class="img-thumbnail rounded mx-auto d-block" alt="CMFs">](https://www.shadertoy.com/view/WtsXW4)
+
+<div class="w3-content" style="max-width:500px">
+  <div class="w3-card">
+    <a href="https://www.shadertoy.com/view/WtsXW4">
+      <img src="/images/shadertoy/WtsXW4.jpg" alt="CMFs" />
+    </a>
+  </div>
+</div>
+<br>
 
 This shadertoy shows the comparison between various Colour Matching Functions (CMFs).
 - CIE 1931 2°
@@ -57,7 +81,15 @@ Intensity from 0 to 1 (bottom to top).
 
 Interferences
 =============
-[<img src="../images/shadertoy/wt2XR3.jpg" class="img-thumbnail rounded mx-auto d-block" alt="Interferences">](https://www.shadertoy.com/view/wt2XR3)
+
+<div class="w3-content" style="max-width:500px">
+  <div class="w3-card">
+    <a href="https://www.shadertoy.com/view/wt2XR3">
+      <img src="/images/shadertoy/wt2XR3.jpg" alt="Interferences" />
+    </a>
+  </div>
+</div>
+<br>
 
 Interferences caused by two slits (Young experiment). Viewed from top. A vertical slice is what would be observable on a screen. I used Fresnel vectors to accumulate both amplitude and phase shift.
 
@@ -75,4 +107,13 @@ You can change the wavelength by pressing on your keyboard:
 
 Misc
 ====
-[<img src="../images/shadertoy/3ljXDd.jpg" class="img-thumbnail rounded mx-auto d-block" alt="Sound visualiser">](https://www.shadertoy.com/view/3ljXDd)
+
+<div class="w3-content" style="max-width:500px">
+  <div class="w3-card">
+    <a href="https://www.shadertoy.com/view/3ljXDd">
+      <img src="/images/shadertoy/3ljXDd.jpg" alt="Sound visualiser" />
+    </a>
+  </div>
+</div>
+<br>
+

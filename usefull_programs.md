@@ -8,23 +8,34 @@ ART
 ===
 I joined the long time running developpement of ART, *The Advanced Rendering Toolkit*, initialy developped by [Robert f. Tobler](http://cgg.mff.cuni.cz/ART/archivers/dedication.html), currently maintained by [Alexander Wilkie](http://cgg.mff.cuni.cz/~wilkie) during my year in Czech Republic. 
 
-<div class="row align-items-center">
-    <div class="col-sm">
-        <img src="../images/CornellBox.jpg" class="img-thumbnail rounded mx-auto d-block" alt="Prism 1">
+<div class="w3-row-padding">
+  <div class="w3-col m4 l4">
+    <div class="w3-card">
+      <img src="../images/CornellBox.jpg" class="w3-image" alt="Cornell box">
     </div>
-    <div class="col-sm">
-        <img src="../images/SphereStage_TS.jpg" class="img-thumbnail rounded mx-auto d-block" alt="Prism 2">
+  </div>
+  <div class="w3-col m4 l4">
+    <div class="w3-card">
+      <img src="../images/SphereStage_TS.jpg" class="w3-image" alt="BRDF showcase">
     </div>
-    <div class="col-sm">
-        <img src="../images/SIGGRAPH_2012_fluo_scene.jpg" class="img-thumbnail rounded mx-auto d-block" alt="Prism 2">
+  </div>
+  <div class="w3-col m4 l4">
+    <div class="w3-card">
+      <img src="../images/SIGGRAPH_2012_fluo_scene.jpg" class="w3-image" alt="Fluorescence">
     </div>
+  </div>
 </div>
+
 <br>
-<div class="text-right">
-<a href="http://cgg.mff.cuni.cz/ART"><button class="btn btn-outline-primary">Website</button></a>
+
+<div class="w3-display-container">
+<p class="w3-right">
+<a href="http://cgg.mff.cuni.cz/ART" class="w3-button w3-blue">Website...</a>
+</p>
 </div>
+
 <br>
-<br>
+
 
 OpenEXR tools
 =============

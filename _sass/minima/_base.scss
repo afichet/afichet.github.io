@@ -40,8 +40,6 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
-
 /**
  * `main` element
  */
@@ -251,4 +249,15 @@ table {
   td {
     border: 1px solid $grey-color-light;
   }
+}
+
+
+figcaption {
+  margin-top: $spacing-unit/2;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
 }
