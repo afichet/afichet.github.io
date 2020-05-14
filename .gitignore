@@ -3,3 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+*.pdf
+*.txt
+*.sh
+*.aux
+*.tex
+*.gp
+*.log
