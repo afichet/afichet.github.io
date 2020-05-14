@@ -47,12 +47,12 @@ Electromagnetic waves can take various frequencies $$\nu$$, or wavelengths $$\la
 
 Wavelengths and frequencies are linked by equation \eqref{eqn:wl_freq}.
 
-$$
+\[
 \begin{equation}
     \lambda = \frac{v}{\nu} \qquad [\mathrm{m}]
     \label{eqn:wl_freq}
 \end{equation}
-$$ 
+\] 
     
 Where:
 - $$\lambda$$ is the wavelength in meters [$$\mathrm{m}$$].}
@@ -472,10 +472,9 @@ Interferences also occur when light hits a surface with irregularities at the sc
         <strong>(c)</strong> Holzschuch-Pacanowski model ((a) + (b)).
         </figcaption>
     </figure>
-    <figcaption markdown=1>
-**Figure 10:** Interferences can cause visible hazy reflections. Here, an example for aluminium from [[Holzschuch and Pacanowski 2017]](#ref-Holzschuch:2017:TMR:3072959.3073621). Material have irregularities at the scale of the wavelength producing interferences.)
-
-</figcaption>
+    <figcaption>
+        <strong>Figure 10:</strong> Interferences can cause visible hazy reflections. Here, an example for aluminium from <a href="#ref-Holzschuch:2017:TMR:3072959.3073621">[Holzschuch and Pacanowski 2017]</a>. Material have irregularities at the scale of the wavelength producing interferences.)
+    </figcaption>
 </figure>
 
 
@@ -508,10 +507,9 @@ Polarisation states
             </figcaption>
         </figure>
     </div>
-    <figcaption markdown=1>
-**Figure 11:** Polarisation states of the electric field of a monochromatic wave. The magnetic induction is perpendicular to the electric field (see Figure [2](#fig:em-spectrum)) and is not represented for clarity. The projection on the x plane represents the rotation of the electric field over time. When the wave is projected onto the z plane, the different polarisation patterns are visible.
-
-</figcaption>
+    <figcaption >
+        <strong>Figure 11:</strong> Polarisation states of the electric field of a monochromatic wave. The magnetic induction is perpendicular to the electric field (see Figure <a href="#fig:em-spectrum">2</a>) and is not represented for clarity. The projection on the x plane represents the rotation of the electric field over time. When the wave is projected onto the z plane, the different polarisation patterns are visible.
+    </figcaption>
 </figure>
 
 When the plane where the electric field propagates remains fixed, the light is said linearly polarised. If the plane rotates over time at the same frequency as the wave frequency, the light is said to be circularly polarised. The intermediate states are said elliptically polarised. Finally, if this plane rotates randomly the light is said to be unpolarised.
