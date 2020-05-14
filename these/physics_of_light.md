@@ -10,7 +10,7 @@ In simple scenes, the effects due to the wave theory of light are barely noticea
 
 In this chapter, we first introduce the physics used in computer graphics for describing light radiation. We explain the relationships between wave, frequency and wavelength. We expose how electric field and magnetic induction are linked together and described by Maxwell equations. We introduce radiometric units used in computer graphics. We expose some effects the wave theory of light has on appearance.
 
-Finally, we introduce what is a reflectance with its wavelength dependency. In Chapter [light transport](light-transport), we further describe reflectance adding the angular dependency with Bidirectional Reflectance Distribution Function (BRDF).
+Finally, we introduce what is a reflectance with its wavelength dependency. In Chapter [light transport](/light_transport), we further describe reflectance adding the angular dependency with Bidirectional Reflectance Distribution Function (BRDF).
 
 Historical background
 =====================
@@ -35,7 +35,7 @@ Frequency and wavelength
     </figcaption>
 </figure>
 
-Electromagnetic waves can take various frequencies $$\nu$$, or wavelengths $$\lambda$$. The wavelength $$\lambda$$ characterise the distance between two repetitive patterns of the wave (see Figure [1](#fig:electromagnetic_wave). Light is a subset of electromagnetic waves to which our eyes are sensitive (see Figure [2](#fig:em-spectrum). The wavelength of light characterises its colour. This will be discussed in Chapter [human perception of colours](human-perception-of-colours).
+Electromagnetic waves can take various frequencies $$\nu$$, or wavelengths $$\lambda$$. The wavelength $$\lambda$$ characterise the distance between two repetitive patterns of the wave (see Figure [1](#fig:electromagnetic_wave). Light is a subset of electromagnetic waves to which our eyes are sensitive (see Figure [2](#fig:em-spectrum). The wavelength of light characterises its colour. This will be discussed in Chapter [human perception of colours](/human_perception_of_colours).
 
 <figure class="w3-content" id="fig:em-spectrum" style="max-width:700px">
     <img src="/figures/light_physics/images/EM_Spectrum.svg" />
@@ -275,7 +275,7 @@ $$
 \end{aligned}
 $$
 
-Radiance and irradiance are important in computer graphics. Radiance is the quantity which is perceived by our eyes or by a camera sensor. In Chapter [light transport](light-transport), we use the differential ratio between exiting radiance and incident irradiance on a surface to define the bidirection reflectance distribution function (BRDF).
+Radiance and irradiance are important in computer graphics. Radiance is the quantity which is perceived by our eyes or by a camera sensor. In Chapter [light transport](/light_transport), we use the differential ratio between exiting radiance and incident irradiance on a surface to define the bidirection reflectance distribution function (BRDF).
 
 Spectral power distribution
 ---------------------------
@@ -619,7 +619,7 @@ The ratio between norm of vector defining polarisation $$(Q, U, V)$$, $$(Q, U)$$
 Reflectance
 ===========
 
-When light interacts with matter, it is scattered. The energy is not scattered equally depending on the wavelength and the direction of the incoming wave. We will discuss in Chapter [light transport](light-transport) the directional dependency.
+When light interacts with matter, it is scattered. The energy is not scattered equally depending on the wavelength and the direction of the incoming wave. We will discuss in Chapter [light transport](/light_transport) the directional dependency.
 
 Reflectance is the effectiveness of a surface to reflect radiant energy. It is a function of wavelength.
 
