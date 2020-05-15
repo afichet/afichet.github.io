@@ -31,7 +31,7 @@ Frequency and wavelength
 <figure id="fig:electromagnetic_wave" class="w3-content" style="max-width:600px">
     <iframe src="/figures/light_physics/images/asy/wave.html" width="600" height="300" frameborder="0"></iframe>
     <figcaption>
-        <strong>Figure 1:</strong> Illustration of a linearly polarised electromagnetic wave. The magnetic induction and the electric field are perpendicular and in phase with each other.
+        <strong>Figure 1:</strong> Illustration of a linearly polarised electromagnetic wave. The magnetic induction and the electric field are perpendicular and in phase with each other. [Interactive figure].
     </figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Where:
 - $$\mathbf{A}_0$$ is the amplitude. It describes the maximum value a waveform can take. For an electric field it is expressed in Volt per meter [$$\mathrm{V}\cdot\mathrm{m}^{-1}$$].}
 - $$\mathbf{k}$$ is the wave-number of three components $$(k_x, k_y, k_z)$$ with $$\| \mathbf{r} \|$$ in [$$\mathrm{rad}\cdot\mathrm{m}^{-1}$$]. It describes the number of oscillations per distance unit.
 - $$\omega$$ is the wave pulsation, or angular frequency [$$\mathrm{rad}\cdot\mathrm{s}^{-1}$$]. It describes the phase shift per time unit.
-- $$\varphi_0$$ is the phase shift [$\mathrm{rad}$]. It describes the de-synchronisation of the wave from a reference wave without retardance.
+- $$\varphi_0$$ is the phase shift [$$\mathrm{rad}$$]. It describes the de-synchronisation of the wave from a reference wave without retardance.
 
 To simplify calculus the complex form is often used. We deduce the physical solution from the real part.
 
@@ -393,7 +393,7 @@ From the optical path length $$l$$ (OPL) we get the relative shift of a wave: $$
 
 #### Interference patterns
 
-Figure [7](#fig:opl) shows two waves $$\mathbf{\Psi}_1, \mathbf{\Psi}_2$$ of same wavelength $$\lambda$$ with phase shifts $$\varphi_1, \varphi_2$$ at position $$\mathbf{P_1}, \mathbf{P_2}$$. They cross at $\mathbf{P_3}$ at distances $$l_1, l_2$$ respectively from $$\mathbf{P_1}, \mathbf{P_2}$$. The resulting wave $$\mathbf{\Psi}_3$$ at $$\mathbf{P_3}$$ will be the result of the interference between $$\mathbf{\Psi}_1$$ and $$\mathbf{\Psi}_2$$. To get the resulting wave $$\mathbf{\Psi}_3$$, we are interested in knowing respective phases $$\varphi'_1, \varphi'_2$$ of $$\mathbf{\Psi}_1, \mathbf{\Psi}_2$$ at $$\mathbf{P_3}$$.
+Figure [7](#fig:opl) shows two waves $$\mathbf{\Psi}_1, \mathbf{\Psi}_2$$ of same wavelength $$\lambda$$ with phase shifts $$\varphi_1, \varphi_2$$ at position $$\mathbf{P_1}, \mathbf{P_2}$$. They cross at $$\mathbf{P_3}$$ at distances $$l_1, l_2$$ respectively from $$\mathbf{P_1}, \mathbf{P_2}$$. The resulting wave $$\mathbf{\Psi}_3$$ at $$\mathbf{P_3}$$ will be the result of the interference between $$\mathbf{\Psi}_1$$ and $$\mathbf{\Psi}_2$$. To get the resulting wave $$\mathbf{\Psi}_3$$, we are interested in knowing respective phases $$\varphi'_1, \varphi'_2$$ of $$\mathbf{\Psi}_1, \mathbf{\Psi}_2$$ at $$\mathbf{P_3}$$.
 
 <figure id="fig:opl">
     <img src="/figures/light_physics/images/asy/opd.svg" />
@@ -566,7 +566,7 @@ $$
 <figure id="fig:QU_filters" class="w3-content" style="max-width:800px">
     <iframe src="/figures/light_physics/images/asy/polarized_stokes_linear_xy_U.html" width="800" height="540" frameborder="0"></iframe>
     <figcaption>
-        <strong>Figure 12:</strong> When using both \(Q\) and \(U\), the indetermination is solved. Only one solution is valid, we can discard the second (represented by the dashed arrows).
+        <strong>Figure 12:</strong> When using both \(Q\) and \(U\), the indetermination is solved. Only one solution is valid, we can discard the second (represented by the dashed arrows). [Interactive figure].
     </figcaption>
 </figure>
 
@@ -658,7 +658,7 @@ In addition to straight re-emission with the same wavelength, a material can, fo
     <figure class="w3-col m4 l4">
         <img src="/figures/light_physics/images/SIGGRAPH_2012_FluoScene.synth.fullSpectrum.mis.hero.i2000.png" class="w3-card" />
         <figcaption>
-        <strong>(c)</strong> Rendering of fluorescent objects using ART renderer [[ART]](https://cgg.mff.cuni.cz/ART/). The inner spheres are fluorescent while the outer ones are not.
+        <strong>(c)</strong> Rendering of fluorescent objects using ART renderer <a href="https://cgg.mff.cuni.cz/ART/">[ART]</a>. The inner spheres are fluorescent while the outer ones are not.
         </figcaption>
     </figure>
     <figcaption>
