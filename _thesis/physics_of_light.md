@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Physics of light
+title: 2 - Physics of light
 ---
 
 Light is both an electromagnetic wave and a particle (photon) displacement. For computer graphics, the latter model is more often used; it is based on geometrical optics.

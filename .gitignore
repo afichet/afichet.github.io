@@ -10,3 +10,7 @@ vendor
 *.tex
 *.gp
 *.log
+*.artraw
+*.artcsp
+*.exr
+*.tiff

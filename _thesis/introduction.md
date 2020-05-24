@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction
+title: 1 - Introduction
 ---
 
 Using our visual system to scan a room, we can identify accessories and furniture. We can distinguish their colour, and categorise their texture without touching them:
