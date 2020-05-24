@@ -31,6 +31,15 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  thesis:
+    output: true
+    order:
+      - introduction.md
+      - physics_of_light.md
+      - color_perception.md
+      - light_transport.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

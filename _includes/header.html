@@ -23,6 +23,19 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+
+          <div class="w3-dropdown-hover">
+            <a class="page-link" href="#">Thesis</a>
+            <div class="w3-dropdown-content w3-bar-block w3-border">
+              {%- for chapter in site.thesis -%}
+                {%- if chapter.title -%}
+                <a class="page-link w3-bar-item" href="{{ chapter.url | relative_url }}">{{ chapter.title | escape }}</a>
+                {%- endif -%}
+              {%- endfor -%}
+            </div>
+          </div> 
+
+
         </div>
       </nav>
     {%- endif -%}
