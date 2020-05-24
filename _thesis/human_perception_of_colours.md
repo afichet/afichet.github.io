@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3 - Human perception of colours
+title: 3. Human perception of colours
 ---
 
 Human vision system is sensitive a certain range of frequencies. Radiations out of that range are not visible. In daylight, we perceive different colours depending on received spectral distribution: three types of cells in our retina are exited with different level.

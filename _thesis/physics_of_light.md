@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2 - Physics of light
+title: 2. Physics of light
 ---
 
 Light is both an electromagnetic wave and a particle (photon) displacement. For computer graphics, the latter model is more often used; it is based on geometrical optics.
@@ -34,7 +34,7 @@ Frequency and wavelength
     </figcaption>
 </figure>
 
-Electromagnetic waves can take various frequencies $$\nu$$, or wavelengths $$\lambda$$. The wavelength $$\lambda$$ characterise the distance between two repetitive patterns of the wave (see Figure [1](#fig:electromagnetic_wave). Light is a subset of electromagnetic waves to which our eyes are sensitive (see Figure [2](#fig:em-spectrum). The wavelength of light characterises its colour. This will be discussed in Chapter [human perception of colours](/human_perception_of_colours).
+Electromagnetic waves can take various frequencies $$\nu$$, or wavelengths $$\lambda$$. The wavelength $$\lambda$$ characterise the distance between two repetitive patterns of the wave (see Figure [1](#fig:electromagnetic_wave). Light is a subset of electromagnetic waves to which our eyes are sensitive (see Figure [2](#fig:em-spectrum). The wavelength of light characterises its colour. This will be discussed in Chapter [3](/thesis/human_perception_of_colours).
 
 <figure class="w3-content" id="fig:em-spectrum" style="max-width:700px">
     <img src="/figures/light_physics/images/EM_Spectrum.svg" />

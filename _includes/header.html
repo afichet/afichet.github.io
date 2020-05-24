@@ -25,13 +25,11 @@
           {%- endfor -%}
 
           <div class="w3-dropdown-hover">
-            <a class="page-link" href="#">Thesis</a>
+            <a class="page-link" href="/thesis/introduction">Thesis</a>
             <div class="w3-dropdown-content w3-bar-block w3-border">
-              {%- for chapter in site.thesis -%}
-                {%- if chapter.title -%}
-                <a class="page-link w3-bar-item" href="{{ chapter.url | relative_url }}">{{ chapter.title | escape }}</a>
-                {%- endif -%}
-              {%- endfor -%}
+              <a class="page-link w3-bar-item" href="/thesis/introduction">1. Introduction</a>
+              <a class="page-link w3-bar-item" href="/thesis/physics_of_light">2. Physics of light</a>
+              <a class="page-link w3-bar-item" href="/thesis/human_perception_of_colours">3. Human perception of colours</a>
             </div>
           </div> 
 

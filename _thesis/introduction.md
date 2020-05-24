@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1 - Introduction
+title: 1. Introduction
 ---
 
 Using our visual system to scan a room, we can identify accessories and furniture. We can distinguish their colour, and categorise their texture without touching them:
@@ -163,20 +163,20 @@ Organisation of the manuscript
 
 The manuscript is organised in two parts; the first part reviews the basic physical principles we use in the scope of this thesis for computer graphics.
 
-Chapter [physics of light](physics_of_light):  
+Chapter [2](physics_of_light):  
 We introduce the physical nature of light and the quantities used to measure light radiation. We explain some of the properties of an electromagnetic wave which can have visual consequences when simulating light transport.
 
-Chapter [human perception of colours](human_perception_of_colours):  
+Chapter [3](human_perception_of_colours):  
 We introduce how our visual system interprets the light wavelengths as
 colours. We motivate the utility of spectral rendering for accurate
 simulation of light transport and colour accuracy.
 
-Chapter <a href="#chapter:light_transport" data-reference-type="ref" data-reference="chapter:light_transport">[chapter:light_transport]</a>  
+Chapter 4 *(not yet available)*  
 We explain how light is reflected on surfaces and give the basis of
 material scattering models. We explain the basics of the microfacet
 model.
 
-Chapter <a href="#chapter:material_aquisition" data-reference-type="ref" data-reference="chapter:material_aquisition">[chapter:material_aquisition]</a>  
+Chapter 5 *(not yet available)*  
 We overview and group material acquisition techniques proposed in the
 literature.
 
@@ -188,21 +188,21 @@ their interaction with light.
 The second part aggregates my contributions in the direct scope of my
 thesis.
 
-Chapter <a href="#chapter:anisotropy" data-reference-type="ref" data-reference="chapter:anisotropy">[chapter:anisotropy]</a>  
+Chapter 6 *(not yet available)*  
 We present a method for acquiring spatially varying anisotropic
 materials. Our setup works with as few as twenty sample and is cheap and
 simple to build. This work was presented at Graphics Interface 2016 in
 Victoria, BC, Canada.
 
-Chapter <a href="#chapter:btf_fit" data-reference-type="ref" data-reference="chapter:btf_fit">[chapter:btf_fit]</a>  
+Chapter 7 *(not yet available)*  
 We describe a pipeline for fitting measured spatially varying materials
 with editability in mind.
 
-Chapter <a href="#chapter:eval_fit" data-reference-type="ref" data-reference="chapter:eval_fit">[chapter:eval_fit]</a>  
+Chapter 8 *(not yet available)*  
 We evaluate the accuracy of our fitting method presented previously. We
 explain the implication of acquisition sampling on material acquisition.
 
-Chapter <a href="#chapter:combining_iso_aniso" data-reference-type="ref" data-reference="chapter:combining_iso_aniso">[chapter:combining_iso_aniso]</a>  
+Chapter 9 *(not yet available)*  
 We introduce a technique for editing measured materials without
 computing the underlying analytical model. We can mix material
 properties from different datasets. For example, we can use the
