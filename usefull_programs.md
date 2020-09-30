@@ -4,9 +4,35 @@ title: Programs
 permalink: /programs/
 ---
 
+On this page, an non exhaustive list of the projects I have contributed in or developed.
+
+
+Spectral Renderers
+==================
+
+MRF
+----
+
+I am contributing in the development of MRF, *Malia Rendering Framework*, a GPU accelerated spectral renderer.
+
+<div class="w3-row-padding">
+    <div class="w3-card">
+      <img src="../images/materials.png" class="w3-image" alt="Cornell box">
+    </div>
+</div>
+
+<br>
+
+<div class="w3-display-container">
+<p class="w3-right">
+<a href="https://pacanows.gitlabpages.inria.fr/MRF/main.md.html" class="w3-button w3-blue">Website...</a>
+</p>
+</div>
+
 ART
-===
-I joined the long time running developpement of ART, *The Advanced Rendering Toolkit*, initialy developped by [Robert f. Tobler](http://cgg.mff.cuni.cz/ART/archivers/dedication.html), currently maintained by [Alexander Wilkie](http://cgg.mff.cuni.cz/~wilkie) during my year in Czech Republic. 
+----
+
+I joined the long time running development of ART, *The Advanced Rendering Toolkit*, initially developed by [Robert f. Tobler](http://cgg.mff.cuni.cz/ART/archivers/dedication.html), currently maintained by [Alexander Wilkie](http://cgg.mff.cuni.cz/~wilkie) during my year in Czech Republic. 
 
 <div class="w3-row-padding">
   <div class="w3-col m4 l4">
@@ -36,13 +62,30 @@ I joined the long time running developpement of ART, *The Advanced Rendering Too
 
 <br>
 
+Spectral Viewer
+===============
+I am participating in the development of an open source spectral image viewer that supports several images formats: ENVI, ART Raw (spectral), OpenEXR, PNG, JPEG...
+
+<div class="w3-row-padding">
+    <div class="w3-card">
+      <img src="../images/spectralviewer.png" class="w3-image" alt="Cornell box">
+    </div>
+</div>
+
+<br>
+
+<div class="w3-display-container">
+<p class="w3-right">
+<a href="https://adufay.gitlabpages.inria.fr/SpectralViewer/" class="w3-button w3-blue">Website...</a>
+</p>
+</div>
 
 OpenEXR tools
 =============
 
 OpenEXR Thumbnailer (Linux)
 ---------------------------
-Display thumbnails / preview of your OpenEXR files in your filemanager:
+Display thumbnails / preview of your OpenEXR files in your file manager:
 - [GitHub](https://github.com/yama-chan/openexr-thumbnailer)
 - [Arch Linux AUR](https://aur.archlinux.org/packages/openexr-thumbnailer/)
 - [PPA Ubuntu](https://launchpad.net/~alban-f/+archive/ubuntu/openexr-thumbnailer)
