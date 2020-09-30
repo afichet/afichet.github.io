@@ -7,7 +7,7 @@ layout: home
     <p>
     This is my academic website.
     </p>
-    <p>I am a postdoctoral researcher at Intitut d'Optique Graduate School in Bordeaux working with <a href="http://manao.inria.fr/perso/~pac/research.php">Romain Pacanowski</a>.</p>
+    <p>I am a postdoctoral researcher at Institut d'Optique Graduate School in Bordeaux working with <a href="http://manao.inria.fr/perso/~pac/research.php">Romain Pacanowski</a>.</p>
     <p>
     I defended my PhD on December 2019. I was under the supervision of <a href="https://artis.inria.fr/Members/Nicolas.Holzschuch/">Nicolas Holzschuch</a>. The subject of my PhD is efficient representation for measured reflectance.
     </p>
