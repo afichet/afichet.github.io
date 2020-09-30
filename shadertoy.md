@@ -94,7 +94,7 @@ Interferences
 Interferences caused by two slits (Young experiment). Viewed from top. A vertical slice is what would be observable on a screen. I used Fresnel vectors to accumulate both amplitude and phase shift.
 
 You can change the slits 
-- aperture with hotizontal clic and drag.
+- aperture with horizontal clic and drag.
 - distance with vertical clic and drag.
 
 You can change the wavelength by pressing on your keyboard:
