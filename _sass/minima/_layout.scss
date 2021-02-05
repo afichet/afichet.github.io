@@ -14,7 +14,7 @@
   @include relative-font-size(1.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
+  //letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
 
@@ -68,7 +68,7 @@
       display: block;
       float: right;
       width: 36px;
-      height: 26px;
+      height: 36px;
       line-height: 0;
       padding-top: 10px;
       text-align: center;
@@ -99,8 +99,6 @@
     }
   }
 }
-
-
 
 /**
  * Site footer

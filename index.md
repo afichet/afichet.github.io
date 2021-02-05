@@ -4,10 +4,9 @@ layout: home
 
 <div class="w3-row">
   <div class="w3-col m7 l7 w3-padding-large">
-    <p>
-    This is my academic website.
-    </p>
-    <p>I am a postdoctoral researcher at Institut d'Optique Graduate School in Bordeaux working with <a href="http://manao.inria.fr/perso/~pac/research.php">Romain Pacanowski</a>.
+    <p>This is my academic website.</p>
+    <p>I am a postdoctoral researcher at Charles University in Prague, Czech Republic working with <a href="https://cgg.mff.cuni.cz/~wilkie/Website/Home.html">Alexander Wilkie.</a></p>
+    <p>I was previously a postdoctoral researcher at Institut d'Optique Graduate School in Bordeaux, France working with <a href="http://manao.inria.fr/perso/~pac/research.php">Romain Pacanowski</a>.
 	</p>
     <p>
     I defended my PhD on December 2019. I was under the supervision of <a href="https://artis.inria.fr/Members/Nicolas.Holzschuch/">Nicolas Holzschuch</a>. The subject of my PhD is efficient representation for measured reflectance. You can access my manuscript here: <a href="https://tel.archives-ouvertes.fr/tel-02893514">https://tel.archives-ouvertes.fr/tel-02893514</a>.
@@ -23,7 +22,7 @@ layout: home
       </header>
     <div class="w3-container">
       <p><a href="mailto:alban.fichet@inria.fr">alban.fichet@gmx.fr</a><br>
-      <a href="/assets/Alban_Fichet_0x5FA927F9_pub.asc">PGP Key: 6836 06E7 73C3 AF5A D048 D5D0 7049 35AF 5FA9 27F9</a></p>
+      <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/683606E773C3AF5AD048D5D0704935AF5FA927F9">PGP Key: 6836 06E7 73C3 AF5A D048 D5D0 7049 35AF 5FA9 27F9</a></p>
     </div>
     </div>
   </div>
