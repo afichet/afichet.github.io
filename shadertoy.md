@@ -56,8 +56,8 @@ in Common tab.
 
 <br>
 
-Demomaking
-==========
+Demo
+====
 
 <div class="w3-content" style="max-width:500px">
   <div class="w3-card">
