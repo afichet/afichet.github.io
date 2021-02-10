@@ -56,6 +56,21 @@ in Common tab.
 
 <br>
 
+Demomaking
+==========
+
+<div class="w3-content" style="max-width:500px">
+  <div class="w3-card">
+    <a href="https://www.shadertoy.com/view/ttfBz4">
+      <img src="/images/shadertoy/ttfBz4.jpg" alt="Cornell box" />
+    </a>
+  </div>
+</div>
+<br>
+
+This shader was created for an AFIG (*Association Française d'Informatique Graphique*) shadertoy contest in 2020.
+
+
 Colour matching functions
 =========================
 
