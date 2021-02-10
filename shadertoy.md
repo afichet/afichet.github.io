@@ -62,7 +62,7 @@ Demomaking
 <div class="w3-content" style="max-width:500px">
   <div class="w3-card">
     <a href="https://www.shadertoy.com/view/ttfBz4">
-      <img src="/images/shadertoy/ttfBz4.jpg" alt="Cornell box" />
+      <img src="/images/shadertoy/ttfBz4.jpg" alt="AFIG contest" />
     </a>
   </div>
 </div>
