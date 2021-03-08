@@ -27,7 +27,7 @@ going to be done in this version to keep it as simple as possible.
 
 <br>
 
-Diffraction by a prism
+Dispertion by a prism
 ======================
 <div class="w3-row-padding">
   <div class="w3-col m6 l6">
