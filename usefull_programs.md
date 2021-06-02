@@ -4,8 +4,26 @@ title: Programs
 permalink: /programs/
 ---
 
-On this page, an non exhaustive list of the projects I have contributed in or developed.
+On this page, a non-exhaustive list of the projects I have contributed in or developed.
 
+Some are very small piece of software but can be usefull.
+
+- Spectral renderers
+  - [Malia Rendering Framework (MRF)](#mrf)
+  - [The Advanced Rendering Toolkit (ART)](#art)
+- [Spectral Viewer](#spectral-viewer)
+- OpenEXR tools
+  - [OpenEXR Viewer](#openexr-viewer)
+  - [Linux OpenEXR thumbnailer](#openexr-thumbnailer-linux)
+  - [gThumb extension for OpenEXR](#openexr-gthumb-extension)
+  - [OpenEXR / TIFF conversion](https://github.com/yama-chan/openexr-converter)
+  - [OpenEXR diff tool](https://github.com/afichet/exr-diff)
+- Other
+  - [MERL / UTIA BRDF support for Python](https://github.com/afichet/brdf-snippets)
+
+You also can find me:
+- [On GitHub](https://github.com/afichet)
+- [On GitLab](https://gitlab.com/afichet)
 
 Spectral Renderers
 ==================
@@ -28,6 +46,8 @@ I am contributing in the development of MRF, *Malia Rendering Framework*, a GPU 
 <a href="https://pacanows.gitlabpages.inria.fr/MRF/main.md.html" class="w3-button w3-blue">Website...</a>
 </p>
 </div>
+
+<p><br></p>
 
 ART
 ----
@@ -60,7 +80,7 @@ I joined the long time running development of ART, *The Advanced Rendering Toolk
 </p>
 </div>
 
-<br>
+<p><br></p>
 
 Spectral Viewer
 ===============
@@ -80,8 +100,30 @@ I am participating in the development of an open source spectral image viewer th
 </p>
 </div>
 
+<p><br></p>
+
 OpenEXR tools
 =============
+
+OpenEXR Viewer
+--------------
+A simple tool I wrote to show detailed information about OpenEXR files. It is yet in a preliminary state.
+
+<div class="w3-row-padding">
+    <div class="w3-card">
+      <img src="https://user-images.githubusercontent.com/7930348/119243717-bbb39200-bb69-11eb-8ad2-b8937cb31508.png" class="w3-image" alt="Cornell box">
+    </div>
+</div>
+
+<br>
+
+<div class="w3-display-container">
+<p class="w3-right">
+<a href="https://github.com/afichet/openexr-viewer" class="w3-button w3-blue">GitHub...</a>
+</p>
+</div>
+
+<p><br></p>
 
 OpenEXR Thumbnailer (Linux)
 ---------------------------
@@ -112,7 +154,3 @@ yay -S gthumb-openexr-extension
 ```
 <br>
 
-OpenEXR / TIFF conversion tools
---------------------------------
-OpenEXR conversion tools from TIFF and to PNG:
-- [GitHub](https://github.com/yama-chan/openexr-converter)
