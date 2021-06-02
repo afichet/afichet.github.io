@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shadertoy
+title: Shadertoys
 permalink: /shadertoy/
 ---
 
@@ -48,10 +48,10 @@ Dispersion by a prism
 <br>
 
 Shows the dispersion by a prism made of Dense flint glass SF10.
-You can tweak the index of refraction and the light dispersion in cauchy_ior
+You can tweak the index of refraction and the light dispersion in `cauchy_ior`
 function from Common tab (from line 144).
  
-You can also change the orientation of the prism by changing the PRISM_ROT define
+You can also change the orientation of the prism by changing the `PRISM_ROT` define
 in Common tab.
 
 <br>
@@ -68,7 +68,7 @@ Demo
 </div>
 <br>
 
-This shader was created for an AFIG (*Association Française d'Informatique Graphique*) shadertoy contest in 2020.
+This shader was created for an AFIG (*Association Française d'Informatique Graphique*) Shadertoy contest in 2020. It won the second place.
 
 
 Colour matching functions
@@ -83,7 +83,7 @@ Colour matching functions
 </div>
 <br>
 
-This shadertoy shows the comparison between various Colour Matching Functions (CMFs).
+This Shadertoy shows the comparison between various Colour Matching Functions (CMFs).
 - CIE 1931 2°
 - Judd & Vos 2°
 - CIE 1964 10°
@@ -108,7 +108,7 @@ Interferences
 
 Interferences caused by two slits (Young experiment). Viewed from top. A vertical slice is what would be observable on a screen. I used Fresnel vectors to accumulate both amplitude and phase shift.
 
-You can change the slits 
+You can change the slits'
 - aperture with horizontal clic and drag.
 - distance with vertical clic and drag.
 
