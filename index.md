@@ -58,6 +58,42 @@ layout: home
 
 # Publications
 
+
+## 2021
+
+<div class="w3-section">
+  <div class="w3-card">
+    <header class="w3-container w3-light-grey">
+      <h4>
+        <a href="https://hal.inria.fr/hal-03252797">
+	An OpenEXR Layout for Spectral Images
+        </a>
+      </h4>
+    </header>
+    <div class="w3-row w3-display-container">
+      <div class="w3-col m3 l3 w3-padding-small w3-display-right">
+        <img src="images/20_teaser_spectral_exr.png" class="w3-round" alt="teaser" />
+      </div>
+      <div class="w3-col m9 l9 w3-padding-small">
+        <p>Alban Fichet, Romain Pacanowski, Alexander Wilkie</p>
+        <p>
+          <small>
+            We propose a standardised layout to organise spectral data stored in OpenEXR images. We motivate why we chose the OpenEXR format as basis for our work, and we explain our choices with regard to data selection and organisation: our goal is to define a standard for the exchange of measured or simulated spectral and bi-spectral data. We also provide sample code to store spectral images in OpenEXR format. 
+          </small>
+        </p>
+      </div>
+    </div>
+    <footer class="w3-container w3-white">
+      <p class="card-text">
+        <small>
+          <a href="http://jcgt.org">Journal of Computer Graphics Techniques</a>
+        </small>
+      </p>
+    </footer>
+  </div>
+</div>
+
+
 ## 2018
 
 <div class="w3-section">
