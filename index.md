@@ -65,6 +65,58 @@ layout: home
   <div class="w3-card">
     <header class="w3-container w3-light-grey">
       <h4>
+        <a href="https://cgg.mff.cuni.cz/publications/a-compact-representation-for-fluorescent-spectral-data/">
+	A Compact Representation for Fluorescent Spectral Data
+        </a>
+      </h4>
+    </header>
+    <div class="w3-row w3-display-container">
+      <div class="w3-col m3 l3 w3-padding-small w3-display-right">
+        <img src="images/20_teaser_fluo_gmm.png" class="w3-round" alt="teaser" />
+      </div>
+      <div class="w3-col m9 l9 w3-padding-small">
+        <p>Qingqin Hua, Alban Fichet, Alexander Wilkie</p>
+        <p>
+          <small>
+	  We propose a technique to efficiently importance sample and
+	  store fluorescent spectral data. Fluorescence behaviour is
+	  properly represented as a re-radiation matrix: for a given
+	  input wavelength, this matrix indicates how much energy is
+	  re-emitted at all other wavelengths. However, such a 2D
+	  representation has a significant memory footprint,
+	  especially when a scene contains a high number of
+	  fluorescent objects or fluorescent textures. We propose to
+	  use Gaussian Mixture Domain to model re-radiation, which
+	  allows us to significantly reduce the memory
+	  footprint. Instead of storing the full matrix, we work with
+	  a set of Gaussian parameters that also allow direct
+	  importance sampling. When accuracy is a concern, one can
+	  still use the re-radiation matrix data, and just benefit
+	  from importance sampling provided by the Gaussian
+	  Mixture. Our method is useful when numerous fluorescent
+	  materials are present in a scene, and in particular for
+	  textures with fluorescent components.
+          </small>
+        </p>
+      </div>
+    </div>
+    <footer class="w3-container w3-white">
+      <p class="card-text">
+        <small>
+          <a href="https://egsr.eu/2021">
+	  Eurographics Symposium on Rendering (EGSR) 
+	  <10.2312/sr.20211305>
+	  </a>
+        </small>
+      </p>
+    </footer>
+  </div>
+</div>
+
+<div class="w3-section">
+  <div class="w3-card">
+    <header class="w3-container w3-light-grey">
+      <h4>
         <a href="https://hal.inria.fr/hal-03252797">
 	An OpenEXR Layout for Spectral Images
         </a>
@@ -78,7 +130,14 @@ layout: home
         <p>Alban Fichet, Romain Pacanowski, Alexander Wilkie</p>
         <p>
           <small>
-            We propose a standardised layout to organise spectral data stored in OpenEXR images. We motivate why we chose the OpenEXR format as basis for our work, and we explain our choices with regard to data selection and organisation: our goal is to define a standard for the exchange of measured or simulated spectral and bi-spectral data. We also provide sample code to store spectral images in OpenEXR format. 
+            We propose a standardised layout to organise spectral data
+            stored in OpenEXR images. We motivate why we chose the
+            OpenEXR format as basis for our work, and we explain our
+            choices with regard to data selection and organisation:
+            our goal is to define a standard for the exchange of
+            measured or simulated spectral and bi-spectral data. We
+            also provide sample code to store spectral images in
+            OpenEXR format.
           </small>
         </p>
       </div>
@@ -92,7 +151,6 @@ layout: home
     </footer>
   </div>
 </div>
-
 
 ## 2018
 
