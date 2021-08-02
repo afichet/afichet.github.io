@@ -96,7 +96,7 @@ I am participating in the development of an open source spectral image viewer th
 
 <div class="w3-display-container">
 <p class="w3-right">
-<a href="https://adufay.gitlabpages.inria.fr/SpectralViewer/" class="w3-button w3-blue">Website...</a>
+<a href="https://mrf-devteam.gitlab.io/spectral-viewer/" class="w3-button w3-blue">Website...</a>
 </p>
 </div>
 
