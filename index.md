@@ -11,7 +11,7 @@ layout: home
     <p>I did a year exchange in Czech Republic at Charles University in <a href="http://cgg.mff.cuni.cz/">Computer Graphics Group</a> under the supervision of <a href="http://cgg.mff.cuni.cz/~wilkie">Alexander Wilkie</a> and <a href="http://cgg.mff.cuni.cz/~jaroslav">Jaroslav Křivánek</a>.</p>
   </div>
   <div class="w3-col m5 l5">
-    <div class="w3-card">
+    <div class="rounded_background">
       <header class="w3-container">
         <h2>Contact</h2>
       </header>
@@ -60,7 +60,7 @@ layout: home
 
 
 <!-- A Compact Representation for Fluorescent Spectral Data -->
-<div class="container_papers">
+<div class="container_papers rounded_background">
   <div class="teaser_image_col">
     <img src="images/20_teaser_fluo_gmm.png" class="w3-round teaser_image" alt="teaser" />
   </div>
@@ -103,7 +103,7 @@ layout: home
 
 
 <!-- An OpenEXR Layout for Spectral Images -->
-<div class="container_papers">
+<div class="container_papers rounded_background">
   <div class="teaser_image_col">
     <img src="images/20_teaser_spectral_exr.png" class="w3-round teaser_image" alt="teaser" />
   </div>
@@ -139,7 +139,7 @@ layout: home
 
 
 <!-- Handling Fluorescence in a Uni-directional Spectral Path Tracer -->
-<div class="container_papers">
+<div class="container_papers rounded_background">
   <div class="teaser_image_col">
     <img src="images/18_teaser_fluo.png" class="w3-round teaser_image" alt="teaser" />
   </div>
@@ -187,7 +187,7 @@ layout: home
 
 
 <!-- Capturing Spatially Varying Anisotropic Reflectance Parameters using Fourier Analysis -->
-<div class="container_papers">
+<div class="container_papers rounded_background">
   <div class="teaser_image_col">
     <img src="images/16_teaser.jpg" class="w3-round teaser_image" alt="teaser" />
   </div>
