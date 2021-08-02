@@ -2,15 +2,15 @@
  * Syntax highlighting styles
  */
 .highlight {
-  background: #fff;
+  background: rgb(54, 54, 54);
   @extend %vertical-rhythm;
 
   .highlighter-rouge & {
-    background: #eef;
+    background: rgb(54, 54, 54);
   }
 
   .c     { color: #998; font-style: italic } // Comment
-  .err   { color: #a61717; background-color: #e3d2d2 } // Error
+  .err   { color: #a61717; background-color: #4e4343 } // Error
   .k     { font-weight: bold } // Keyword
   .o     { font-weight: bold } // Operator
   .cm    { color: #998; font-style: italic } // Comment.Multiline
