@@ -274,7 +274,7 @@ h1 {
 
 .rounded_background {
   padding: 1em;
-  background-image: linear-gradient(lighten($background-color, 3%), lighten($background-color, 1%));
+  background-image: linear-gradient(lighten($background-color, 10%), lighten($background-color, 5%));
   border-radius: 10px;
 }
 
