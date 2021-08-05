@@ -58,11 +58,46 @@ layout: home
 
 ## 2021
 
+<!-- Efficient Spectral Rendering on the GPU for Predictive Rendering -->
+<div class="container_papers rounded_background">
+  <div class="teaser_image_col">
+    <img src="images/21_teaser_rtg.png" class="w3-round teaser_image" alt="teaser" />
+  </div>
+  <div class="paper_text_col">
+    <div class="post-list-heading">
+      <p><a href="https://doi.org/10.1007/978-1-4842-7185-8">
+        Efficient Spectral Rendering on the GPU for Predictive Rendering
+      </a></p>
+    </div>
+    <div class="post-meta">
+      <p>David Murray, Alban Fichet, Romain Pacanowski</p>
+    </div>
+    <div class="post-content">
+      <p>
+      Current graphic processing units (GPU) in conjunction with specialized APIs
+      open the possibility of interactive path tracing. Spectral rendering is
+      necessary for accurate and predictive light transport simulation, especially to
+      render specific phenomena such as light dispersion. However, it requires
+      larger assets than traditional RGB rendering pipelines. Thanks to the
+      increase of available onboard memory on newer graphic cards, it becomes
+      possible to load larger assets onto the GPU, making spectral rendering
+      feasible. In this chapter, we describe the strengths of spectral rendering and
+      present our approach for implementing a spectral path tracer on the GPU. We
+      also propose solutions to limit the impact on memory when handling finely
+      sampled spectra or large scenes.
+      </p>
+    </div>
+    <div class="post-meta">
+      <a href="https://doi.org/10.1007/978-1-4842-7185-8">Ray Tracing Gems II, Apress, Berkeley, CA 2021 - Chapter 42 pp.673 - 698 &lt;10.1007/978-1-4842-7185-8&gt; </a>
+    </div>
+  </div>
+</div>
+
 
 <!-- A Compact Representation for Fluorescent Spectral Data -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
-    <img src="images/20_teaser_fluo_gmm.png" class="w3-round teaser_image" alt="teaser" />
+    <img src="images/21_teaser_fluo_gmm.png" class="w3-round teaser_image" alt="teaser" />
   </div>
   <div class="paper_text_col">
     <div class="post-list-heading">
@@ -105,7 +140,7 @@ layout: home
 <!-- An OpenEXR Layout for Spectral Images -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
-    <img src="images/20_teaser_spectral_exr.png" class="w3-round teaser_image" alt="teaser" />
+    <img src="images/21_teaser_spectral_exr.png" class="w3-round teaser_image" alt="teaser" />
   </div>
   <div class="paper_text_col">
     <div class="post-list-heading">
