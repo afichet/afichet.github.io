@@ -61,11 +61,13 @@ layout: home
 <!-- Efficient Spectral Rendering on the GPU for Predictive Rendering -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
-    <img src="images/21_teaser_rtg.png" class="w3-round teaser_image" alt="teaser" />
+    <a href="https://hal.inria.fr/hal-03331619">
+      <img src="images/21_teaser_rtg.png" class="w3-round teaser_image" alt="teaser" />
+    </a>
   </div>
   <div class="paper_text_col">
     <div class="post-list-heading">
-      <p><a href="https://doi.org/10.1007/978-1-4842-7185-8">
+      <p><a href="https://hal.inria.fr/hal-03331619">
         Efficient Spectral Rendering on the GPU for Predictive Rendering
       </a></p>
     </div>
@@ -97,11 +99,13 @@ layout: home
 <!-- A Compact Representation for Fluorescent Spectral Data -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
-    <img src="images/21_teaser_fluo_gmm.png" class="w3-round teaser_image" alt="teaser" />
+      <a href="https://hal.archives-ouvertes.fr/hal-03274233">
+        <img src="images/21_teaser_fluo_gmm.png" class="w3-round teaser_image" alt="teaser" />
+      </a>
   </div>
   <div class="paper_text_col">
     <div class="post-list-heading">
-      <p><a href="https://cgg.mff.cuni.cz/publications/a-compact-representation-for-fluorescent-spectral-data">
+      <p><a href="https://hal.archives-ouvertes.fr/hal-03274233">
         A Compact Representation for Fluorescent Spectral Data
       </a></p>
     </div>
@@ -140,7 +144,9 @@ layout: home
 <!-- An OpenEXR Layout for Spectral Images -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
-    <img src="images/21_teaser_spectral_exr.png" class="w3-round teaser_image" alt="teaser" />
+    <a href="https://hal.inria.fr/hal-03252797">
+      <img src="images/21_teaser_spectral_exr.png" class="w3-round teaser_image" alt="teaser" />
+    </a>
   </div>
   <div class="paper_text_col">
     <div class="post-list-heading">
@@ -176,7 +182,9 @@ layout: home
 <!-- Handling Fluorescence in a Uni-directional Spectral Path Tracer -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
-    <img src="images/18_teaser_fluo.png" class="w3-round teaser_image" alt="teaser" />
+    <a href="https://hal.inria.fr/hal-01818826">
+      <img src="images/18_teaser_fluo.png" class="w3-round teaser_image" alt="teaser" />
+    </a>
   </div>
   <div class="paper_text_col">
     <div class="post-list-heading">
@@ -224,7 +232,9 @@ layout: home
 <!-- Capturing Spatially Varying Anisotropic Reflectance Parameters using Fourier Analysis -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
-    <img src="images/16_teaser.jpg" class="w3-round teaser_image" alt="teaser" />
+    <a href="https://hal.inria.fr/hal-01302120v2">
+      <img src="images/16_teaser.jpg" class="w3-round teaser_image" alt="teaser" />
+    </a>
   </div>
   <div class="paper_text_col">
     <div class="post-list-heading">
