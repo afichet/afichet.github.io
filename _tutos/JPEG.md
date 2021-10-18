@@ -9,7 +9,7 @@ layout: page
 *Author: Alban Fichet <alban.fichet@gmx.fr>*  
 *License: BSD 3-Clause License https://opensource.org/licenses/BSD-3-Clause*  
 *Last modified: Oct. 18th 2021*  
-*This code is for educational purpose, not meant to be efficient or clever. Notice each function outputs the expanded dictionary which is unnecessary but practical for educative purpose.*
+*This code is for educational purpose, not meant to be efficient or clever.*
 
 ## Introduction
 The JPEG (the Joint Photographic Experts Group) version 1 is a widely used image compression method for pictures. This notebook explains how it works and the different steps of the compression algorithm.
