@@ -909,9 +909,9 @@ We first gather metadata from the original pictures (width and height) and set t
 
 
 ```python
-quality = 80
+quality = 90
 height, width, _ = image.shape
-downsampling_cbcr = 1
+downsampling_cbcr = 2
 ```
 
 Now, we can compress our image. We get strings representing the compressed image.
@@ -933,7 +933,7 @@ print(str((len(str_image_y) + len(str_image_cb) + len(str_image_cr)) * 2 / 1024)
     Raw size:
     468.75KiB
     Compressed size (approx):
-    143.90625KiB
+    158.138671875KiB
 
 
 We can decompress the image from number strings given width, height, quantization tables and chroma downsampling factor, all provided in the JFIF file.
