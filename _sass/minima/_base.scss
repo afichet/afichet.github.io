@@ -227,21 +227,25 @@ pre {
  */
 table {
   margin-bottom: $spacing-unit;
-  width: 100%;
+  max-width: 100%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
   tr {
-    &:nth-child(even) {
-      background-color: darken($grey-color-light, 20%);
-    }
+    background-color: darken($grey-color-light, 10%);
+    // &:nth-child(even) {
+    //   background-color: lighten($grey-color-light, 5%);
+    // }
+    // &:nth-child(odd) {
+    //   background-color: darken($grey-color-light, 20%);
+    // }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: $grey-color-light;
+    background-color: lighten($grey-color-light, 10%);
     border: 1px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }

@@ -39,6 +39,8 @@ collections:
       - physics_of_light.md
       - color_perception.md
       - light_transport.md
+  tutos:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -24,7 +24,7 @@
             {%- endif -%}
           {%- endfor -%}
 
-          <div class="w3-dropdown-hover">
+          <div class="page-link w3-dropdown-hover">
             <a class="page-link" href="https://tel.archives-ouvertes.fr/tel-02893514">Thesis</a>
             <!-- <div class="w3-dropdown-content w3-bar-block w3-border">
               <a class="page-link w3-bar-item" href="/thesis/introduction">1. Introduction</a>
@@ -33,6 +33,16 @@
             </div> -->
           </div> 
 
+          <div class="page-link w3-dropdown-hover">
+            <a class="page-link" href="#">Tutos</a>
+            <div class="w3-dropdown-content w3-bar-block w3-border">
+              {%- for tuto in site.tutos -%}
+                {%- if tuto.title -%}
+                  <a class="page-link w3-bar-item" href="{{ tuto.url | relative_url }}">{{ tuto.title | escape }}</a>
+                {%- endif -%}
+              {%- endfor -%}  
+            </div>
+          </div> 
 
         </div>
       </nav>
