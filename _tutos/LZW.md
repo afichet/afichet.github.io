@@ -4,16 +4,15 @@ layout: page
 # permalink: /programs/
 ---
 
-# The Lempel-Ziv-Welch Compression (LZW)
 *Author: Alban Fichet <alban.fichet@gmx.fr>*  
 *License: BSD 3-Clause License https://opensource.org/licenses/BSD-3-Clause*  
-*Last modified: Oct. 17th 2021*  
+*Last modified: Nov. 1st 2021*  
 *This code is for educational purpose, not meant to be efficient or clever. Notice each function outputs the expanded dictionary which is unnecessary but practical for educative purpose.*
 
 
 ## Introduction
 
-The GIF compression scheme uses LZW algorithm. It is an improvement on the LZ78 algorithm from Abraham Lempel and Jacob Ziv created by Terry Welch. It was patented by Unisys, the patent is now expired.
+The GIF compression scheme uses LZW algorithm, the Lempel-Ziv-Welch Compression (LZW). It is an improvement on the LZ78 algorithm from Abraham Lempel and Jacob Ziv created by Terry Welch. It was patented by Unisys, the patent is now expired.
 
 This compression scheme works with a dictionary built while reading the stream. The initial dictionary has to be populated with all possible single element values (e.g., all ASCII characters). The algorithm works by iteratively increasing the size of a window containing successive characters and add those longer strings to the dictionary. This lengthier sequence resets each time an entry is added to the dictionary.
 

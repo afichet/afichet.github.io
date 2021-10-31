@@ -4,11 +4,9 @@ layout: page
 # permalink: /programs/
 ---
 
-# The JPEG compression
-
 *Author: Alban Fichet <alban.fichet@gmx.fr>*  
 *License: BSD 3-Clause License https://opensource.org/licenses/BSD-3-Clause*  
-*Last modified: Oct. 18th 2021*  
+*Last modified: Nov. 1st 2021*  
 *This code is for educational purpose, not meant to be efficient or clever.*
 
 ## Introduction
