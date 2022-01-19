@@ -3,21 +3,21 @@ layout: home
 ---
 
 <div class="w3-row">
-  <div class="w3-col m7 l7 w3-padding-large">
-    <p>This is my academic website.</p>
+  <div class="w3-col m8 l8 w3-padding-large">
     <p>I am a postdoctoral researcher at Charles University in Prague, Czech Republic working with <a href="https://cgg.mff.cuni.cz/~wilkie/Website/Home.html">Alexander Wilkie.</a></p>
     <p>I was previously a postdoctoral researcher at Institut d'Optique Graduate School in Bordeaux, France working with <a href="http://manao.inria.fr/perso/~pac/research.php">Romain Pacanowski</a>.</p>
     <p>I defended my PhD on December 2019. I was under the supervision of <a href="https://artis.inria.fr/Members/Nicolas.Holzschuch/">Nicolas Holzschuch</a>. The subject of my PhD is efficient representation for measured reflectance. You can access my manuscript here: <a href="https://tel.archives-ouvertes.fr/tel-02893514">https://tel.archives-ouvertes.fr/tel-02893514</a>.</p>
     <p>I did a year exchange in Czech Republic at Charles University in <a href="http://cgg.mff.cuni.cz/">Computer Graphics Group</a> under the supervision of <a href="http://cgg.mff.cuni.cz/~wilkie">Alexander Wilkie</a> and <a href="http://cgg.mff.cuni.cz/~jaroslav">Jaroslav Křivánek</a>.</p>
   </div>
-  <div class="w3-col m5 l5">
+  <div class="w3-col m4 l4">
     <div class="rounded_background">
       <header class="w3-container">
         <h2>Contact</h2>
       </header>
       <div class="w3-container">
-	    <p>email: <a href="mailto:alban.fichet@inria.fr">alban.fichet@gmx.fr</a></p>
-	    <p><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/683606E773C3AF5AD048D5D0704935AF5FA927F9">PGP Key: 6836 06E7 73C3 AF5A D048 D5D0 7049 35AF 5FA9 27F9</a></p>
+        <!-- <img src="images/profile.jpg" class="w3-round teaser_image" /> -->
+        <p>email: <a href="mailto:alban.fichet@inria.fr">alban.fichet@gmx.fr</a></p>
+        <p><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/683606E773C3AF5AD048D5D0704935AF5FA927F9">PGP Key: 6836 06E7 73C3 AF5A D048 D5D0 7049 35AF 5FA9 27F9</a></p>
       </div>
     </div>
   </div>
@@ -47,7 +47,7 @@ layout: home
 
 <div class="w3-display-container">
   <p class="w3-right">
-    <a href="shadertoy" class="w3-button w3-blue">More...</a>
+    <a href="https://www.shadertoy.com/user/stack_overflow" class="w3-button w3-blue">More...</a>
   </p>
 </div>
 

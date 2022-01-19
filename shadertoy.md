@@ -4,6 +4,8 @@ title: Shadertoys
 permalink: /shadertoy/
 ---
 
+Here is a partial list of some of my Shadertoys. You can find all my Shadertoys on my profile page: [https://www.shadertoy.com/user/stack_overflow](https://www.shadertoy.com/user/stack_overflow).
+
 Spectral Cornell box
 ====================
 
@@ -17,12 +19,12 @@ Spectral Cornell box
 <br>
 
 This Shadertoy renders a Cornell box in spectral using the official specifications
-for spectral reflectance. Those are resampled each 1nm to ease the computations.
+for spectral reflectance. Those are resampled each 1 nm to ease the computations.
 It uses XYZ Colour Matching Functions (CMFs) to transform radiance for a wavelength
 to a tristimulus.
 
 It is not meant to be fast but simple and as close as possible with the Cornell's
-specifications with a proper tonemapping. Some improvements can be made but are not
+specifications with a proper tone mapping. Some improvements can be made but are not
 going to be done in this version to keep it as simple as possible.
 
 <br>
@@ -109,14 +111,14 @@ Interferences
 Interferences caused by two slits (Young experiment). Viewed from top. A vertical slice is what would be observable on a screen. I used Fresnel vectors to accumulate both amplitude and phase shift.
 
 You can change the slits'
-- aperture with horizontal clic and drag.
-- distance with vertical clic and drag.
+- Aperture with horizontal click and drag.
+- Distance with vertical click and drag.
 
 You can change the wavelength by pressing on your keyboard:
-- 4 -> 400nm
-- 5 -> 500nm
-- 6 -> 600nm
-- 7 -> 700nm
+- 4 -> 400 nm
+- 5 -> 500 nm
+- 6 -> 600 nm
+- 7 -> 700 nm
 
 <br>
 
