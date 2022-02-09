@@ -4,8 +4,8 @@ layout: home
 
 <div class="w3-row">
   <div class="w3-col m8 l8 w3-padding-large">
-    <p>I am a postdoctoral researcher at Charles University in Prague, Czech Republic working with <a href="https://cgg.mff.cuni.cz/~wilkie/Website/Home.html">Alexander Wilkie.</a></p>
-    <p>I was previously a postdoctoral researcher at Institut d'Optique Graduate School in Bordeaux, France working with <a href="http://manao.inria.fr/perso/~pac/research.php">Romain Pacanowski</a>.</p>
+    <p>I am a research engineer at <a href="https://unity.com/">Unity Technologies</a> in the <a href="https://unity-grenoble.github.io/website/index.html">Advanced Rendering Research Team</a> in Grenoble, France.
+    <p>Previously, I was a postdoctoral researcher at Charles University in Prague, Czech Republic working with <a href="https://cgg.mff.cuni.cz/~wilkie/Website/Home.html">Alexander Wilkie</a> from February 2021 to January 2022. I did a one year post-doc at Institut d'Optique Graduate School in Bordeaux, France working with <a href="http://manao.inria.fr/perso/~pac/research.php">Romain Pacanowski</a>.</p>
     <p>I defended my PhD on December 2019. I was under the supervision of <a href="https://artis.inria.fr/Members/Nicolas.Holzschuch/">Nicolas Holzschuch</a>. The subject of my PhD is efficient representation for measured reflectance. You can access my manuscript here: <a href="https://tel.archives-ouvertes.fr/tel-02893514">https://tel.archives-ouvertes.fr/tel-02893514</a>.</p>
     <p>I did a year exchange in Czech Republic at Charles University in <a href="http://cgg.mff.cuni.cz/">Computer Graphics Group</a> under the supervision of <a href="http://cgg.mff.cuni.cz/~wilkie">Alexander Wilkie</a> and <a href="http://cgg.mff.cuni.cz/~jaroslav">Jaroslav Křivánek</a>.</p>
   </div>
