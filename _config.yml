@@ -21,7 +21,7 @@
 title: Alban Fichet
 email: alban.fichet@gmx.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  PhD. Computer Graphics
+  Computer Graphics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://afichet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  afichet

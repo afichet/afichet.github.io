@@ -16,7 +16,7 @@ layout: home
       </header>
       <div class="w3-container">
         <!-- <img src="images/profile.jpg" class="w3-round teaser_image" /> -->
-        <p>email: <a href="mailto:alban.fichet@inria.fr">alban.fichet@gmx.fr</a></p>
+        <p>email: <a href="mailto:alban.fichet@gmx.fr">alban.fichet@gmx.fr</a></p>
         <p><a href="https://keys.openpgp.org/vks/v1/by-fingerprint/683606E773C3AF5AD048D5D0704935AF5FA927F9">PGP Key: 6836 06E7 73C3 AF5A D048 D5D0 7049 35AF 5FA9 27F9</a></p>
       </div>
     </div>
