@@ -135,7 +135,7 @@ layout: home
       </p>
     </div>
     <div class="post-meta">
-      <a href="https://egsr.eu/2021">Eurographics Symposium on Rendering (EGSR) &lt;10.2312/sr.20211305&gt; </a>
+      <a href="https://doi.org/10.2312/sr.20211305">Eurographics Symposium on Rendering (EGSR) &lt;10.2312/sr.20211305&gt; </a>
     </div>
   </div>
 </div>
