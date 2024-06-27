@@ -55,6 +55,36 @@ layout: home
 
 # Publications
 
+## 2024
+
+<!--  Non-Orthogonal Reduction for Rendering Fluorescent Materials in Non-Spectral Engines  -->
+<div class="container_papers rounded_background">
+  <div class="teaser_image_col">
+    <a href="https://arxiv.org/abs/2406.17360">
+      <img src="images/24_teaser_fluo_rgb.png" class="w3-round teaser_image" alt="teaser" />
+    </a>
+  </div>
+  <div class="paper_text_col">
+    <div class="post-list-heading">
+      <p><a href="https://arxiv.org/abs/2406.17360">
+         Non-Orthogonal Reduction for Rendering Fluorescent Materials in Non-Spectral Engines
+      </a></p>
+    </div>
+    <div class="post-meta">
+      <p>Alban Fichet, Laurent Belcour, Pascal Barla</p>
+    </div>
+    <div class="post-content">
+      <p>
+      We propose a method to accurately handle fluorescence in a non-spectral (e.g., tristimulus) rendering engine, showcasing color-shifting and increased luminance effects. Core to our method is a principled reduction technique that encodes the re-radiation into a low-dimensional matrix working in the space of the renderer’s Color Matching Functions (CMFs). Our process is independent of a specific CMF set and allows for the addition of a non-visible ultraviolet band during light transport. Our representation visually matches full spectral light transport for measured fluorescent materials even for challenging illuminants.
+      </p>
+    </div>
+    <div class="post-meta">
+      <a href="https://arxiv.org/abs/2406.17360">Computer Graphics Forum &lt;10.1111/cgf.15150&gt; </a>
+    </div>
+  </div>
+</div>
+
+
 ## 2022
 
 <!-- Efficient Storage and Importance Sampling for Fluorescent Reflectance -->
@@ -285,4 +315,3 @@ layout: home
     </div>
   </div>
 </div>
-
