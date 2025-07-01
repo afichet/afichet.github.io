@@ -57,7 +57,7 @@ layout: home
 
 ## 2025
 
-<!--  Non-Orthogonal Reduction for Rendering Fluorescent Materials in Non-Spectral Engines  -->
+<!--  A Fluorescent Material Model for Non-Spectral Editing & Rendering  -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
     <a href="https://arxiv.org/pdf/2505.19672">
@@ -84,7 +84,7 @@ layout: home
   </div>
 </div>
 
-<!--  Non-Orthogonal Reduction for Rendering Fluorescent Materials in Non-Spectral Engines  -->
+<!--  Compression of Spectral Images using Spectral JPEG XL  -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
     <a href="https://jcgt.org/published/0014/01/04/">
