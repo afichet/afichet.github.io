@@ -60,6 +60,33 @@ layout: home
 <!--  Non-Orthogonal Reduction for Rendering Fluorescent Materials in Non-Spectral Engines  -->
 <div class="container_papers rounded_background">
   <div class="teaser_image_col">
+    <a href="https://arxiv.org/pdf/2505.19672">
+      <img src="images/25_teaser_fluo_edit.png" class="w3-round teaser_image" alt="teaser" />
+    </a>
+  </div>
+  <div class="paper_text_col">
+    <div class="post-list-heading">
+      <p><a href="https://arxiv.org/pdf/2505.19672">
+          A Fluorescent Material Model for Non-Spectral Editing & Rendering
+      </a></p>
+    </div>
+    <div class="post-meta">
+      <p>Laurent Belcour, Alban Fichet, Pascal Barla</p>
+    </div>
+    <div class="post-content">
+      <p>
+          In this work, we introduce an analytical approach to the editing and rendering of fluorescence in a non-spectral engine. It is based on a decomposition of the reduced reradiation matrix, and an analytically-integrable Gaussian-based model of the fluorescent component. The model reproduces the appearance of fluorescent materials accurately, especially with the addition of a UV basis. Most importantly, it grants variations of fluorescent material parameters in real-time, either for the editing of fluorescent materials, or for the dynamic spatial variation of fluorescence properties across object surfaces. A simplified one-Gaussian fluorescence model even allows for the artist-friendly creation of plausible fluorescent materials from scratch, requiring only a few reflectance colors as input.
+      </p>
+    </div>
+    <div class="post-meta">
+      <a href="https://arxiv.org/pdf/2505.19672">ACM SIGGRAPH 2025</a>
+    </div>
+  </div>
+</div>
+
+<!--  Non-Orthogonal Reduction for Rendering Fluorescent Materials in Non-Spectral Engines  -->
+<div class="container_papers rounded_background">
+  <div class="teaser_image_col">
     <a href="https://jcgt.org/published/0014/01/04/">
       <img src="images/25_teaser_spectral_jxl.png" class="w3-round teaser_image" alt="teaser" />
     </a>
